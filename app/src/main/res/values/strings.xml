@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">myYoga</string>
+    <string name="view_exercise">VIEW EXERCISE</string>
+    <string name="name_of_exercise">NAME OF EXERCISE</string>
+</resources>
